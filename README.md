@@ -6,5 +6,5 @@ Game for Counter spell game jam.
 
 
 
-//Changelog 1
+//Changelog; 1
 Chamelon
